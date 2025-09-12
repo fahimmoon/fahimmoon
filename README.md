@@ -47,7 +47,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/fahim-ahmad-589a81246/)
 - 🧠 [GitHub](https://github.com/fahimmoon)
-- 🌐 [Portfolio Website](https://fahimmoon.github.io/portfolio-website-main/) 
+- 🌐 [[Portfolio Website](https://fahimmoon.github.io/portfolio-website-main/)](https://fahimmoon.github.io/Portfolio/) 
 - 📧 Email: moonhunzai83@gmail.com
 
 ---
