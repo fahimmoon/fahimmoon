@@ -1,65 +1,70 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F766E,100:1E293B&text=Fahim%20Ahmad&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Front-end%20developer%20%C2%B7%20Builder%20of%20useful%20things&descSize=18&descAlignY=60" alt="Fahim Ahmad banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F766E,100:1E293B&text=Fahim%20Ahmad&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Front-end%20developer%20%C2%B7%20I%20build%20useful%20software&descSize=18&descAlignY=60" alt="Fahim Ahmad, front-end developer" />
 </p>
 
-<!-- Typing line -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=0F766E&center=true&vCenter=true&width=560&lines=React+%C2%B7+Next.js+%C2%B7+TypeScript;I+turn+messy+ideas+into+clean+interfaces;Currently+building+an+offline+accounting+app;Always+learning%2C+always+shipping" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=14B8A6&center=true&vCenter=true&width=600&lines=React+%C2%B7+Next.js+%C2%B7+TypeScript;Clean+interfaces%2C+solid+logic;Building+an+offline+accounting+app;Always+learning%2C+always+shipping" alt="React, Next.js, TypeScript. Clean interfaces, solid logic." />
 </p>
 
 <p align="center">
   <a href="https://fahimmoon.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/fahim-ahmad-589a81246/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:moonhunzai83@gmail.com"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Open_to-Freelance_%26_Open_Source-0F766E?style=for-the-badge" alt="Open to freelance and open source" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to-freelance_projects-0F766E?style=flat-square" alt="Open to freelance projects" />
+  <img src="https://img.shields.io/badge/Open_to-open--source_collaboration-0F766E?style=flat-square" alt="Open to open-source collaboration" />
+  <img src="https://img.shields.io/badge/Based_in-Pakistan-1E293B?style=flat-square" alt="Based in Pakistan" />
 </p>
 
 ---
 
-## 👋 Hello, I'm Fahim
+## About me
 
-I'm a Computer Science student who builds things people can actually use: dashboards that stay out of the way, interfaces that feel obvious, and the occasional game.
+I'm a Computer Science student who builds software people can actually use: dashboards that stay out of the way, interfaces that feel obvious, and the occasional game. I care about clean code, pixel-accurate UI and good UX, and I'm growing from front-end into full-stack.
 
-```ts
-const fahim = {
-  role: "Front-end developer (and full-stack in training)",
-  studying: ["Data Structures", "OOP", "Databases"],
-  obsessedWith: ["Clean code", "Pixel-accurate UI", "Good UX"],
-  buildsWith: ["React", "Next.js", "TypeScript", "Tailwind"],
-  curiousAbout: ["AI-powered web tools", "Offline-first software"],
-  motto: "Crafting robust solutions, one concept at a time.",
-} as const
-```
+|  |  |
+| --- | --- |
+| **Focus** | Front-end, React and Next.js, TypeScript |
+| **Studying** | Data structures, OOP, databases |
+| **Exploring** | AI-powered web tools, offline-first software, Electron |
+| **Working style** | Ship small, test the logic, polish the details |
+| **Motto** | Crafting robust solutions, one concept at a time |
 
 ---
 
-## 🔨 Currently building
+## Now building
 
-### 🏦 Village Finance
-An **offline double-entry accounting desktop app** for a village savings and loan organization. It has no internet requirement, and every transaction balances.
+### Village Finance
+An **offline double-entry accounting desktop app** for a village savings and loan organization. It needs no internet, and every transaction balances.
 
-- [x] Professional UI: dashboard, members, savings, loans, repayments, accounting, reports
-- [x] Loan schedules (flat, reducing balance) and repayment allocation logic
-- [x] Yearly profit distribution based on how active each member's account was
-- [ ] SQLite ledger with database-level balancing rules
-- [ ] Backups, installer, and a pilot beside the paper books
+| Stage | Status |
+| --- | --- |
+| Professional UI: dashboard, members, savings, loans, repayments, accounting, reports | Done (running on mock data) |
+| Loan schedules and repayment allocation logic | Designed |
+| Yearly profit distribution based on member account activity | Designed |
+| SQLite ledger with database-level balancing rules | Next |
+| Backups, Windows installer, pilot beside the paper books | Planned |
 
-`Electron` `React` `TypeScript` `SQLite`
-
----
-
-## 🚀 Projects
-
-| | Project | What it does |
-|---|---|---|
-| 🏦 | **[Village Finance](https://github.com/fahimmoon/village_Finance)** | Offline accounting for a village organization: members, savings, loans, repayments, profit sharing |
-| 🛺 | **Rickshaw Surfers: Lahore Rush** | A 3D endless runner with a Pakistani truck-art rickshaw, built with Three.js and React 19 |
-| 🌐 | **[Portfolio](https://fahimmoon.github.io/Portfolio/)** | My personal site and project showcase |
+![Electron](https://img.shields.io/badge/Electron-1E293B?style=flat-square&logo=electron&logoColor=47848F)
+![React](https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=3178C6)
+![SQLite](https://img.shields.io/badge/SQLite-1E293B?style=flat-square&logo=sqlite&logoColor=0F80CC)
 
 ---
 
-## 🧰 Tech stack
+## Projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **[Village Finance](https://github.com/fahimmoon/village_Finance)** | Offline accounting for a village organization: members, savings, loans, repayments, profit sharing | Electron, React, TypeScript, SQLite |
+| **Rickshaw Surfers: Lahore Rush** | A 3D endless runner with a Pakistani truck-art rickshaw | Three.js, React 19 |
+| **[Portfolio](https://fahimmoon.github.io/Portfolio/)** | My personal site and project showcase | React |
+
+---
+
+## Tech stack
 
 <details open>
 <summary><b>Frontend</b></summary>
@@ -110,33 +115,40 @@ An **offline double-entry accounting desktop app** for a village savings and loa
 
 ---
 
-## 🎯 What I'm working toward
+## How I build
 
-- 🎓 Strong fundamentals in DSA, OOP and databases
-- 🤖 AI-powered web experiences with LLM integrations
-- 🎨 Fast, accessible, good-looking dashboards and landing pages
-- 🌱 Advanced React and Next.js patterns
-- 🤝 Meaningful open-source contributions
+- **Logic first, then polish:** money, schedules and rules are written as small pure functions with tests before they get a screen.
+- **Design systems over one-off styling:** shared tokens and reusable components, so every screen looks consistent.
+- **Offline and reliable by default:** no hidden network dependencies, safe data handling, and backups from day one.
+- **Honest status:** I say what is done, what is designed, and what is next.
 
-## 💬 Ask me about
+## Ask me about
 
-React and TypeScript UI, building a dashboard that doesn't look AI-generated, offline-first apps, Electron, double-entry accounting basics, and turning a rough idea into a real product.
+React and TypeScript UI, building dashboards that look professional, Electron desktop apps, offline-first design, double-entry accounting basics, and turning a rough idea into a working product.
 
 ---
 
-## 📊 GitHub at a glance
+## GitHub at a glance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fahimmoon&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0F766E&icon_color=0F766E" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimmoon&layout=compact&langs_count=6&hide_border=true&title_color=0F766E" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fahimmoon&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&title_color=14B8A6&icon_color=14B8A6&bg_color=00000000" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=fahimmoon&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0F766E&icon_color=0F766E&bg_color=00000000" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimmoon&layout=compact&langs_count=6&hide_border=true&theme=dark&title_color=14B8A6&bg_color=00000000" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimmoon&layout=compact&langs_count=6&hide_border=true&title_color=0F766E&bg_color=00000000" alt="Most used languages" />
+  </picture>
 </p>
 
 ---
 
 <p align="center">
-  <b>Got a project in mind?</b> Let's build it.
+  <b>Have a project in mind? Let's build it.</b>
   <br />
-  <a href="mailto:moonhunzai83@gmail.com">moonhunzai83@gmail.com</a>
+  <a href="mailto:moonhunzai83@gmail.com">moonhunzai83@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/fahim-ahmad-589a81246/">LinkedIn</a> ·
+  <a href="https://fahimmoon.github.io/Portfolio/">Portfolio</a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0F766E,100:1E293B&section=footer" width="100%" alt="" />
